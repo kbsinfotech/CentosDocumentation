@@ -21,3 +21,5 @@
 - Linux is Free and Opensource software (FOSS)
 - Security
 - starts fast
+- Budda
+- sasi
